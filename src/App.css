@@ -1,0 +1,13 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+textarea {
+  resize: none;
+  border: none;
+  display: block;
+  height: 99vh;
+  width: 99vw;
+}
